@@ -1,0 +1,27 @@
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe.config
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.pdb
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.AssemblyReference.cache
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form1.resources
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Properties.Resources.resources
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.GenerateResource.cache
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.CoreCompileInputs.cache
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.pdb
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form2.resources
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form3.resources
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\QRIS.png
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\QRIS.png
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe.config
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.pdb
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.AssemblyReference.cache
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe.config
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form1.resources
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form2.resources
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form3.resources
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Properties.Resources.resources
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.GenerateResource.cache
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.CoreCompileInputs.cache
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe
+D:\apa aja\aplikasibaju\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.pdb
